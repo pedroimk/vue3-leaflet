@@ -11,11 +11,11 @@ export default {
 				num: [], //最后一个点之前的点
 			}, //用于标记
 			// markerFeatureGroup: null,
-			markerTips: "开始",
-			markerTipsStart: "开始",
-			markerTipsGoon: "绘制",
-			markerTipsEnd: "结束",
-			markerTipsPlohgonEnd: "单击任意节点或双击结束绘制",
+			markerTips: "Comenzar",
+			markerTipsStart: "Comenzar",
+			markerTipsGoon: "Dibujar",
+			markerTipsEnd: "Finalizar",
+			markerTipsPlohgonEnd: "Doble click para finalizar",
 			coordinateArr: [], //用于存放坐标
 			tempCoordinateArr: [], //存储临时图形的坐标
 			// goalDrawing: null, //绘制的目标图形
